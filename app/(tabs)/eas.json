@@ -1,6 +1,10 @@
 {
   "expo": {
-    "name": "noticias",
-    "slug": "noticias"
+    "name": "Monitor de Notícias",
+    "slug": "noticias",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.noticias.app"
+    }
   }
 }
